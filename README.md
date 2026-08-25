@@ -2,6 +2,10 @@
 
 A customer support AI agent for Aster & Row (outdoor gear e-commerce) that answers policy questions using retrieval-augmented generation (RAG) and checks real order status via tool calling — built to specifically avoid the 4 failure modes of the original prototype: conflicting policy answers, fabricated order data, lost conversation context, and prompt injection vulnerability.
 
+## Demo
+
+See `demo.mp4` in this repository for a walkthrough showing: a policy question with correct source citation, a follow-up question testing conversation memory, a real order lookup via tool calling, and a privacy-safety refusal.
+
 ## Setup and Run Instructions
 
 1. Clone this repo and `cd` into it.
