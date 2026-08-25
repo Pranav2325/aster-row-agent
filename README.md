@@ -4,7 +4,9 @@ A customer support AI agent for Aster & Row (outdoor gear e-commerce) that answe
 
 ## Demo
 
-See `demo.mp4` in this repository for a walkthrough showing: a policy question with correct source citation, a follow-up question testing conversation memory, a real order lookup via tool calling, and a privacy-safety refusal.
+https://github.com/Pranav2325/aster-row-agent/raw/master/demo.mp4
+
+The video above shows: a policy question with correct source citation, a follow-up question testing conversation memory, a real order lookup via tool calling, and a privacy-safety refusal.
 
 ## Setup and Run Instructions
 
